@@ -1,5 +1,8 @@
 // Light layout
 // Colors
+// Optional dark/gold colors
+// Dark Brown/Black: #45423A
+// Vintage Gold: #DDB36E
 $primary-color: #03A9F4;
 $primary-color-dark: #f4f4f4;
 $accent-color: #ffc107;
@@ -1886,18 +1889,15 @@ hr {
 }
 
 .project h2 {
-    margin-bottom: 40px;
+    margin-bottom: 5px;
     margin-top: 40px;
     text-transform: uppercase;
     font-weight: 500;
-    font-family: 'Roboto', serif;
     font-size: 1em;
     display: inline-block;
     width: initial;
     font-weight: 600;
-    padding-bottom: 5px;
     text-transform: uppercase;
-    letter-spacing: 2px;
 }
 
 .photonic-loading {
